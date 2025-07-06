@@ -50,7 +50,7 @@ predictions = model.predict(test)
 
 # Create submission
 submission = pd.DataFrame(predictions, 
-                         columns=[f'BlendProperty{i}' for i in range(1, 11)])
+columns=[f'BlendProperty{i}' for i in range(1, 11)])
 submission.to_csv('submission.csv', index=False)
 ```
 
