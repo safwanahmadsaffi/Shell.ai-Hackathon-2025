@@ -55,7 +55,6 @@ submission.to_csv('submission.csv', index=False)
 ```
 
 ## 📧 Contact
-ai@shell.com
-
+safwanahmadsaffi836@gmail.com
 ---
 *Building a sustainable future through AI* 🌱
